@@ -2,7 +2,7 @@
 
 [Synapse Agent仓库主页](https://github.com/MichaelHyan/SynapseAgent)
 
-使用方式：配置SynapseAgent并启动server.py，同时启动本项目wechat_main.py。
+使用方式：配置SynapseAgent并启动server.py，同时启动本项目main.py。
 
 首次启动需扫码登录，之后无需再次扫码登录。
 
